@@ -1,1 +1,2 @@
 "This is my first edit for Lab A."
+"This is my second edit for the lab history."
